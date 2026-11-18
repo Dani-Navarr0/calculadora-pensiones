@@ -1,0 +1,898 @@
+{
+ "description": "Debt (Excessive Deficit Procedure definition, ESA 2010) of the Spanish Social Security Administrations, end of quarter, euros. 'held_by_state_eur' = part owed to the central State (State loans).",
+ "publisher": "Banco de España - Boletín Estadístico, tabla 12.16",
+ "source_page": "https://www.bde.es/webbe/es/estadisticas/otras-clasificaciones/publicaciones/boletin-estadistico/capitulo-12.html",
+ "source_csv": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1216.csv",
+ "generated_at": "2026-11-18T11:19:06+00:00",
+ "quarterly": [
+  {
+   "year": 1994,
+   "quarter_end_month": 12,
+   "debt_eur": 7267800000.0,
+   "debt_pct_gdp": null,
+   "held_by_state_eur": 5446132000.0
+  },
+  {
+   "year": 1995,
+   "quarter_end_month": 3,
+   "debt_eur": 8809797000.0,
+   "debt_pct_gdp": 2.1,
+   "held_by_state_eur": 6336322000.0
+  },
+  {
+   "year": 1995,
+   "quarter_end_month": 6,
+   "debt_eur": 9103368000.0,
+   "debt_pct_gdp": 2.1,
+   "held_by_state_eur": 7003963000.0
+  },
+  {
+   "year": 1995,
+   "quarter_end_month": 9,
+   "debt_eur": 9726534000.0,
+   "debt_pct_gdp": 2.2,
+   "held_by_state_eur": 7671604000.0
+  },
+  {
+   "year": 1995,
+   "quarter_end_month": 12,
+   "debt_eur": 10648512000.0,
+   "debt_pct_gdp": 2.3,
+   "held_by_state_eur": 8116696000.0
+  },
+  {
+   "year": 1996,
+   "quarter_end_month": 3,
+   "debt_eur": 10693221000.0,
+   "debt_pct_gdp": 2.3,
+   "held_by_state_eur": 8683450000.0
+  },
+  {
+   "year": 1996,
+   "quarter_end_month": 6,
+   "debt_eur": 11064352000.0,
+   "debt_pct_gdp": 2.3,
+   "held_by_state_eur": 9048469000.0
+  },
+  {
+   "year": 1996,
+   "quarter_end_month": 9,
+   "debt_eur": 12102035000.0,
+   "debt_pct_gdp": 2.5,
+   "held_by_state_eur": 9778494000.0
+  },
+  {
+   "year": 1996,
+   "quarter_end_month": 12,
+   "debt_eur": 13780344000.0,
+   "debt_pct_gdp": 2.8,
+   "held_by_state_eur": 10787257000.0
+  },
+  {
+   "year": 1997,
+   "quarter_end_month": 3,
+   "debt_eur": 13841648000.0,
+   "debt_pct_gdp": 2.8,
+   "held_by_state_eur": 11900933000.0
+  },
+  {
+   "year": 1997,
+   "quarter_end_month": 6,
+   "debt_eur": 14483528000.0,
+   "debt_pct_gdp": 2.9,
+   "held_by_state_eur": 12542813000.0
+  },
+  {
+   "year": 1997,
+   "quarter_end_month": 9,
+   "debt_eur": 15125408000.0,
+   "debt_pct_gdp": 3.0,
+   "held_by_state_eur": 13184693000.0
+  },
+  {
+   "year": 1997,
+   "quarter_end_month": 12,
+   "debt_eur": 16347559000.0,
+   "debt_pct_gdp": 3.1,
+   "held_by_state_eur": 13825972000.0
+  },
+  {
+   "year": 1998,
+   "quarter_end_month": 3,
+   "debt_eur": 16431100000.0,
+   "debt_pct_gdp": 3.1,
+   "held_by_state_eur": 14540576000.0
+  },
+  {
+   "year": 1998,
+   "quarter_end_month": 6,
+   "debt_eur": 17145103000.0,
+   "debt_pct_gdp": 3.2,
+   "held_by_state_eur": 15254579000.0
+  },
+  {
+   "year": 1998,
+   "quarter_end_month": 9,
+   "debt_eur": 17859707000.0,
+   "debt_pct_gdp": 3.3,
+   "held_by_state_eur": 15969183000.0
+  },
+  {
+   "year": 1998,
+   "quarter_end_month": 12,
+   "debt_eur": 18523520000.0,
+   "debt_pct_gdp": 3.3,
+   "held_by_state_eur": 16683186000.0
+  },
+  {
+   "year": 1999,
+   "quarter_end_month": 3,
+   "debt_eur": 18655744000.0,
+   "debt_pct_gdp": 3.3,
+   "held_by_state_eur": 16815410000.0
+  },
+  {
+   "year": 1999,
+   "quarter_end_month": 6,
+   "debt_eur": 18788568000.0,
+   "debt_pct_gdp": 3.3,
+   "held_by_state_eur": 16948234000.0
+  },
+  {
+   "year": 1999,
+   "quarter_end_month": 9,
+   "debt_eur": 18920640000.0,
+   "debt_pct_gdp": 3.2,
+   "held_by_state_eur": 17080306000.0
+  },
+  {
+   "year": 1999,
+   "quarter_end_month": 12,
+   "debt_eur": 18958697000.0,
+   "debt_pct_gdp": 3.2,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2000,
+   "quarter_end_month": 3,
+   "debt_eur": 18958697000.0,
+   "debt_pct_gdp": 3.1,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2000,
+   "quarter_end_month": 6,
+   "debt_eur": 18958697000.0,
+   "debt_pct_gdp": 3.1,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2000,
+   "quarter_end_month": 9,
+   "debt_eur": 18958697000.0,
+   "debt_pct_gdp": 3.0,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2000,
+   "quarter_end_month": 12,
+   "debt_eur": 18831547000.0,
+   "debt_pct_gdp": 2.9,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2001,
+   "quarter_end_month": 3,
+   "debt_eur": 18831547000.0,
+   "debt_pct_gdp": 2.9,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2001,
+   "quarter_end_month": 6,
+   "debt_eur": 18831547000.0,
+   "debt_pct_gdp": 2.8,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2001,
+   "quarter_end_month": 9,
+   "debt_eur": 18831547000.0,
+   "debt_pct_gdp": 2.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2001,
+   "quarter_end_month": 12,
+   "debt_eur": 18704397000.0,
+   "debt_pct_gdp": 2.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2002,
+   "quarter_end_month": 3,
+   "debt_eur": 18704397000.0,
+   "debt_pct_gdp": 2.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2002,
+   "quarter_end_month": 6,
+   "debt_eur": 18704397000.0,
+   "debt_pct_gdp": 2.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2002,
+   "quarter_end_month": 9,
+   "debt_eur": 18704397000.0,
+   "debt_pct_gdp": 2.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2002,
+   "quarter_end_month": 12,
+   "debt_eur": 18577247000.0,
+   "debt_pct_gdp": 2.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2003,
+   "quarter_end_month": 3,
+   "debt_eur": 18577247000.0,
+   "debt_pct_gdp": 2.4,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2003,
+   "quarter_end_month": 6,
+   "debt_eur": 18577247000.0,
+   "debt_pct_gdp": 2.4,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2003,
+   "quarter_end_month": 9,
+   "debt_eur": 18577247000.0,
+   "debt_pct_gdp": 2.4,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2003,
+   "quarter_end_month": 12,
+   "debt_eur": 18450097000.0,
+   "debt_pct_gdp": 2.3,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2004,
+   "quarter_end_month": 3,
+   "debt_eur": 18450097000.0,
+   "debt_pct_gdp": 2.3,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2004,
+   "quarter_end_month": 6,
+   "debt_eur": 18450097000.0,
+   "debt_pct_gdp": 2.2,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2004,
+   "quarter_end_month": 9,
+   "debt_eur": 18450097000.0,
+   "debt_pct_gdp": 2.2,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2004,
+   "quarter_end_month": 12,
+   "debt_eur": 18322947000.0,
+   "debt_pct_gdp": 2.1,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2005,
+   "quarter_end_month": 3,
+   "debt_eur": 18322947000.0,
+   "debt_pct_gdp": 2.1,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2005,
+   "quarter_end_month": 6,
+   "debt_eur": 18322947000.0,
+   "debt_pct_gdp": 2.0,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2005,
+   "quarter_end_month": 9,
+   "debt_eur": 18322947000.0,
+   "debt_pct_gdp": 2.0,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2005,
+   "quarter_end_month": 12,
+   "debt_eur": 18245987000.0,
+   "debt_pct_gdp": 2.0,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2006,
+   "quarter_end_month": 3,
+   "debt_eur": 18245987000.0,
+   "debt_pct_gdp": 1.9,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2006,
+   "quarter_end_month": 6,
+   "debt_eur": 18245987000.0,
+   "debt_pct_gdp": 1.9,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2006,
+   "quarter_end_month": 9,
+   "debt_eur": 18245987000.0,
+   "debt_pct_gdp": 1.9,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2006,
+   "quarter_end_month": 12,
+   "debt_eur": 18169028000.0,
+   "debt_pct_gdp": 1.8,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2007,
+   "quarter_end_month": 3,
+   "debt_eur": 18169028000.0,
+   "debt_pct_gdp": 1.8,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2007,
+   "quarter_end_month": 6,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2007,
+   "quarter_end_month": 9,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2007,
+   "quarter_end_month": 12,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2008,
+   "quarter_end_month": 3,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2008,
+   "quarter_end_month": 6,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2008,
+   "quarter_end_month": 9,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2008,
+   "quarter_end_month": 12,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2009,
+   "quarter_end_month": 3,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2009,
+   "quarter_end_month": 6,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2009,
+   "quarter_end_month": 9,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2009,
+   "quarter_end_month": 12,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2010,
+   "quarter_end_month": 3,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2010,
+   "quarter_end_month": 6,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2010,
+   "quarter_end_month": 9,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2010,
+   "quarter_end_month": 12,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2011,
+   "quarter_end_month": 3,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2011,
+   "quarter_end_month": 6,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2011,
+   "quarter_end_month": 9,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2011,
+   "quarter_end_month": 12,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2012,
+   "quarter_end_month": 3,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2012,
+   "quarter_end_month": 6,
+   "debt_eur": 17168553000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2012,
+   "quarter_end_month": 9,
+   "debt_eur": 17195409000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2012,
+   "quarter_end_month": 12,
+   "debt_eur": 17188197000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2013,
+   "quarter_end_month": 3,
+   "debt_eur": 17187915000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2013,
+   "quarter_end_month": 6,
+   "debt_eur": 17201627000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2013,
+   "quarter_end_month": 9,
+   "debt_eur": 17189801000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2013,
+   "quarter_end_month": 12,
+   "debt_eur": 17187330000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2014,
+   "quarter_end_month": 3,
+   "debt_eur": 17188348000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2014,
+   "quarter_end_month": 6,
+   "debt_eur": 17203429000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2014,
+   "quarter_end_month": 9,
+   "debt_eur": 17200390000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2014,
+   "quarter_end_month": 12,
+   "debt_eur": 17187960000.0,
+   "debt_pct_gdp": 1.7,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2015,
+   "quarter_end_month": 3,
+   "debt_eur": 17189848000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2015,
+   "quarter_end_month": 6,
+   "debt_eur": 17196005000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2015,
+   "quarter_end_month": 9,
+   "debt_eur": 17196568000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2015,
+   "quarter_end_month": 12,
+   "debt_eur": 17188376000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2016,
+   "quarter_end_month": 3,
+   "debt_eur": 17187918000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2016,
+   "quarter_end_month": 6,
+   "debt_eur": 17174090000.0,
+   "debt_pct_gdp": 1.6,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2016,
+   "quarter_end_month": 9,
+   "debt_eur": 17173789000.0,
+   "debt_pct_gdp": 1.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2016,
+   "quarter_end_month": 12,
+   "debt_eur": 17173045000.0,
+   "debt_pct_gdp": 1.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2017,
+   "quarter_end_month": 3,
+   "debt_eur": 17172737000.0,
+   "debt_pct_gdp": 1.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2017,
+   "quarter_end_month": 6,
+   "debt_eur": 17172822000.0,
+   "debt_pct_gdp": 1.5,
+   "held_by_state_eur": 17168553000.0
+  },
+  {
+   "year": 2017,
+   "quarter_end_month": 9,
+   "debt_eur": 23187347000.0,
+   "debt_pct_gdp": 2.0,
+   "held_by_state_eur": 23154553000.0
+  },
+  {
+   "year": 2017,
+   "quarter_end_month": 12,
+   "debt_eur": 27393064000.0,
+   "debt_pct_gdp": 2.3,
+   "held_by_state_eur": 27360553000.0
+  },
+  {
+   "year": 2018,
+   "quarter_end_month": 3,
+   "debt_eur": 27362635000.0,
+   "debt_pct_gdp": 2.3,
+   "held_by_state_eur": 27360553000.0
+  },
+  {
+   "year": 2018,
+   "quarter_end_month": 6,
+   "debt_eur": 34888050000.0,
+   "debt_pct_gdp": 2.9,
+   "held_by_state_eur": 34860553000.0
+  },
+  {
+   "year": 2018,
+   "quarter_end_month": 9,
+   "debt_eur": 34862854000.0,
+   "debt_pct_gdp": 2.9,
+   "held_by_state_eur": 34860553000.0
+  },
+  {
+   "year": 2018,
+   "quarter_end_month": 12,
+   "debt_eur": 41194229000.0,
+   "debt_pct_gdp": 3.4,
+   "held_by_state_eur": 41190743000.0
+  },
+  {
+   "year": 2019,
+   "quarter_end_month": 3,
+   "debt_eur": 43068085000.0,
+   "debt_pct_gdp": 3.5,
+   "held_by_state_eur": 43065743000.0
+  },
+  {
+   "year": 2019,
+   "quarter_end_month": 6,
+   "debt_eur": 48693118000.0,
+   "debt_pct_gdp": 3.9,
+   "held_by_state_eur": 48690743000.0
+  },
+  {
+   "year": 2019,
+   "quarter_end_month": 9,
+   "debt_eur": 52444716000.0,
+   "debt_pct_gdp": 4.2,
+   "held_by_state_eur": 52440743000.0
+  },
+  {
+   "year": 2019,
+   "quarter_end_month": 12,
+   "debt_eur": 55024338000.0,
+   "debt_pct_gdp": 4.4,
+   "held_by_state_eur": 55020833000.0
+  },
+  {
+   "year": 2020,
+   "quarter_end_month": 3,
+   "debt_eur": 55024766000.0,
+   "debt_pct_gdp": 4.4,
+   "held_by_state_eur": 55020833000.0
+  },
+  {
+   "year": 2020,
+   "quarter_end_month": 6,
+   "debt_eur": 68854782000.0,
+   "debt_pct_gdp": 5.8,
+   "held_by_state_eur": 68850833000.0
+  },
+  {
+   "year": 2020,
+   "quarter_end_month": 9,
+   "debt_eur": 74854789000.0,
+   "debt_pct_gdp": 6.5,
+   "held_by_state_eur": 74850833000.0
+  },
+  {
+   "year": 2020,
+   "quarter_end_month": 12,
+   "debt_eur": 85355664000.0,
+   "debt_pct_gdp": 7.6,
+   "held_by_state_eur": 85350923000.0
+  },
+  {
+   "year": 2021,
+   "quarter_end_month": 3,
+   "debt_eur": 85355365000.0,
+   "debt_pct_gdp": 7.6,
+   "held_by_state_eur": 85350923000.0
+  },
+  {
+   "year": 2021,
+   "quarter_end_month": 6,
+   "debt_eur": 91854940000.0,
+   "debt_pct_gdp": 7.8,
+   "held_by_state_eur": 91850923000.0
+  },
+  {
+   "year": 2021,
+   "quarter_end_month": 9,
+   "debt_eur": 91854859000.0,
+   "debt_pct_gdp": 7.6,
+   "held_by_state_eur": 91850923000.0
+  },
+  {
+   "year": 2021,
+   "quarter_end_month": 12,
+   "debt_eur": 97185239000.0,
+   "debt_pct_gdp": 7.9,
+   "held_by_state_eur": 97181013000.0
+  },
+  {
+   "year": 2022,
+   "quarter_end_month": 3,
+   "debt_eur": 99187115000.0,
+   "debt_pct_gdp": 7.8,
+   "held_by_state_eur": 99181013000.0
+  },
+  {
+   "year": 2022,
+   "quarter_end_month": 6,
+   "debt_eur": 99185100000.0,
+   "debt_pct_gdp": 7.6,
+   "held_by_state_eur": 99181013000.0
+  },
+  {
+   "year": 2022,
+   "quarter_end_month": 9,
+   "debt_eur": 99191646000.0,
+   "debt_pct_gdp": 7.4,
+   "held_by_state_eur": 99181013000.0
+  },
+  {
+   "year": 2022,
+   "quarter_end_month": 12,
+   "debt_eur": 106177718000.0,
+   "debt_pct_gdp": 7.7,
+   "held_by_state_eur": 106162613000.0
+  },
+  {
+   "year": 2023,
+   "quarter_end_month": 3,
+   "debt_eur": 106171767000.0,
+   "debt_pct_gdp": 7.5,
+   "held_by_state_eur": 106162613000.0
+  },
+  {
+   "year": 2023,
+   "quarter_end_month": 6,
+   "debt_eur": 106173860000.0,
+   "debt_pct_gdp": 7.4,
+   "held_by_state_eur": 106162613000.0
+  },
+  {
+   "year": 2023,
+   "quarter_end_month": 9,
+   "debt_eur": 106172006000.0,
+   "debt_pct_gdp": 7.2,
+   "held_by_state_eur": 106162613000.0
+  },
+  {
+   "year": 2023,
+   "quarter_end_month": 12,
+   "debt_eur": 116172555000.0,
+   "debt_pct_gdp": 7.8,
+   "held_by_state_eur": 116166419000.0
+  },
+  {
+   "year": 2024,
+   "quarter_end_month": 3,
+   "debt_eur": 116170335000.0,
+   "debt_pct_gdp": 7.6,
+   "held_by_state_eur": 116166419000.0
+  },
+  {
+   "year": 2024,
+   "quarter_end_month": 6,
+   "debt_eur": 116170520000.0,
+   "debt_pct_gdp": 7.5,
+   "held_by_state_eur": 116166419000.0
+  },
+  {
+   "year": 2024,
+   "quarter_end_month": 9,
+   "debt_eur": 116170961000.0,
+   "debt_pct_gdp": 7.4,
+   "held_by_state_eur": 116166419000.0
+  },
+  {
+   "year": 2024,
+   "quarter_end_month": 12,
+   "debt_eur": 126173282000.0,
+   "debt_pct_gdp": 7.9,
+   "held_by_state_eur": 126170225000.0
+  },
+  {
+   "year": 2025,
+   "quarter_end_month": 3,
+   "debt_eur": 126173790000.0,
+   "debt_pct_gdp": 7.8,
+   "held_by_state_eur": 126170225000.0
+  },
+  {
+   "year": 2025,
+   "quarter_end_month": 6,
+   "debt_eur": 126177793000.0,
+   "debt_pct_gdp": 7.7,
+   "held_by_state_eur": 126170225000.0
+  },
+  {
+   "year": 2025,
+   "quarter_end_month": 9,
+   "debt_eur": 126173303000.0,
+   "debt_pct_gdp": 7.6,
+   "held_by_state_eur": 126170225000.0
+  },
+  {
+   "year": 2025,
+   "quarter_end_month": 12,
+   "debt_eur": 136178942000.0,
+   "debt_pct_gdp": 8.1,
+   "held_by_state_eur": 136174031000.0
+  },
+  {
+   "year": 2026,
+   "quarter_end_month": 3,
+   "debt_eur": 136177955000.0,
+   "debt_pct_gdp": 7.9,
+   "held_by_state_eur": 136174031000.0
+  },
+  {
+   "year": 2026,
+   "quarter_end_month": 6,
+   "debt_eur": 136177828000.0,
+   "debt_pct_gdp": 7.8,
+   "held_by_state_eur": 136174031000.0
+  }
+ ]
+}

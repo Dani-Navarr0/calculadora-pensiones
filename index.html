@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calculadora de Pensiones</title>
+<meta name="description" content="¿Cuánto tiempo de pensiones contributivas en España paga una cantidad de dinero? Datos oficiales de la Seguridad Social, actualizados automáticamente.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap top-inner">
+    <strong class="brand" data-i18n="brand">Calculadora de Pensiones</strong>
+    <nav class="nav">
+      <a href="#calc" data-i18n="navCalc">Calculadora</a>
+      <a href="#debt" data-i18n="navDebt">Deuda</a>
+      <a href="#trend" data-i18n="navTrend">Evolución</a>
+      <a href="#reform" data-i18n="navReform">Simulador</a>
+      <a href="#sources" data-i18n="navSources">Fuentes</a>
+    </nav>
+    <div class="lang-switch" role="group" aria-label="Language">
+      <button class="lang-btn active" id="btn-es" data-lang="es">ES</button>
+      <button class="lang-btn" id="btn-en" data-lang="en">EN</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- ============ LIVE DEBT CLOCK (hero) ============ -->
+  <section class="clock-hero" aria-labelledby="clockTitle">
+    <p class="clock-kicker" id="clockTitle" data-i18n="clockTitle">Deuda de la Seguridad Social — estimación en tiempo real</p>
+    <div class="clock-digits" id="clockDebt" aria-hidden="true">—</div>
+    <p class="clock-sub" id="clockSub"></p>
+    <div class="clock-row">
+      <div class="clock-mini"><span class="clock-mini-val" id="clockSession">—</span><span class="clock-mini-lbl" data-i18n="clockSession">deuda nueva desde que abriste esta página</span></div>
+      <div class="clock-mini"><span class="clock-mini-val" id="clockSpend">—</span><span class="clock-mini-lbl" id="clockSpendLbl"></span></div>
+    </div>
+    <p class="clock-note" id="clockNote"></p>
+    <p class="sr-only" id="clockSr"></p>
+  </section>
+
+  <!-- ============ CALCULATOR ============ -->
+  <section id="calc" class="card">
+    <h1 data-i18n="title">¿Cuánto tiempo de pensiones paga tu dinero?</h1>
+    <p class="lead" data-i18n="subtitle">Introduce una cantidad y elige un año: te decimos cuánto tiempo cubriría el gasto en pensiones contributivas de la Seguridad Social.</p>
+
+    <div class="form-grid">
+      <label class="field">
+        <span data-i18n="amountLabel">Cantidad (€)</span>
+        <input type="text" inputmode="decimal" id="moneyInput" autocomplete="off" placeholder="1.000.000">
+        <small class="input-preview" id="inputPreview"></small>
+      </label>
+      <label class="field">
+        <span data-i18n="yearLabel">Año de referencia</span>
+        <select id="yearSelect"></select>
+        <small class="muted" id="yearNote"></small>
+      </label>
+    </div>
+
+    <div class="presets" id="presetContainer"></div>
+
+    <div class="result" id="result" aria-live="polite"></div>
+    <details class="howto" id="howCalc">
+      <summary data-i18n="howSummary">¿Cómo se calcula? (fórmula y datos exactos)</summary>
+      <div id="howBody"></div>
+    </details>
+  </section>
+
+  <!-- ============ DEBT ============ -->
+  <section id="debt" class="card">
+    <h2 data-i18n="debtTitle">La deuda que financia las pensiones</h2>
+    <p class="lead" id="debtLead"></p>
+    <div class="tiles" id="debtTiles"></div>
+    <h3 data-i18n="debtNewTitle">Deuda nueva cada año</h3>
+    <p class="muted" data-i18n="debtNewSub">Aumento de la deuda de la Seguridad Social entre el final de un año y el siguiente (miles de millones de €).</p>
+    <div class="chart" id="debtBars" role="img"></div>
+    <h3 data-i18n="debtStockTitle">Deuda acumulada</h3>
+    <p class="muted" data-i18n="debtStockSub">Saldo al final de cada año (último punto: último trimestre publicado).</p>
+    <div class="chart" id="debtLine" role="img"></div>
+    <div class="explain" id="debtExplain"></div>
+    <details>
+      <summary data-i18n="tableView">Ver los datos en tabla</summary>
+      <div class="table-wrap"><table id="debtTable"></table></div>
+    </details>
+  </section>
+
+  <!-- ============ TREND & PROJECTION ============ -->
+  <section id="trend" class="card">
+    <h2 data-i18n="trendTitle">Gasto anual en pensiones contributivas</h2>
+    <p class="muted" data-i18n="trendSub">Euros corrientes (sin ajustar por inflación). Años completos: dato oficial. Año en curso: estimación. Años futuros: proyección de tendencia.</p>
+    <div class="controls-row">
+      <label><span data-i18n="projMethod">Proyección: crecimiento medio de los últimos</span>
+        <select id="projWindow">
+          <option value="5">5</option>
+          <option value="10" selected>10</option>
+          <option value="15">15</option>
+        </select>
+        <span data-i18n="years">años</span>
+      </label>
+      <label><span data-i18n="projUntil">hasta</span>
+        <select id="projUntil"></select>
+      </label>
+    </div>
+    <div class="chart" id="chart" role="img"></div>
+    <p class="note" id="projNote"></p>
+    <details>
+      <summary data-i18n="tableView">Ver los datos en tabla</summary>
+      <div class="table-wrap"><table id="dataTable"></table></div>
+    </details>
+  </section>
+
+  <!-- ============ REFORM SIMULATOR ============ -->
+  <section id="reform" class="card">
+    <h2 data-i18n="reformTitle">Simulador: ¿cómo cerrarías el agujero?</h2>
+    <p class="lead" id="gapIntro"></p>
+    <div class="gap-meter">
+      <div class="gap-bar"><div class="gap-fill" id="gapFill"></div></div>
+      <div class="gap-legend" id="gapLegend"></div>
+    </div>
+    <div class="levers" id="levers"></div>
+    <div class="reform-summary" id="reformSummary"></div>
+    <p class="note" data-i18n="reformDisclaimer">Estimaciones estáticas de primer orden: aplican cada medida a las cifras oficiales actuales sin efectos de comportamiento, macroeconómicos ni de segunda ronda. Sirven para comparar órdenes de magnitud, no son una previsión. Cada fórmula y su fuente se muestran en la medida.</p>
+  </section>
+
+  <!-- ============ SOURCES ============ -->
+  <section id="sources" class="card">
+    <h2 data-i18n="sourcesTitle">Fuentes y metodología</h2>
+    <div id="sourcesBody"></div>
+  </section>
+</main>
+
+<footer class="wrap footer" id="footer"></footer>
+
+<div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+<script src="assets/app.js"></script>
+</body>
+</html>

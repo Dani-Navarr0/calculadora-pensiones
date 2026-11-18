@@ -1,0 +1,208 @@
+{
+  "_readme": "Hand-checked figures used by the website. Every item has: value, unit, reference date, source URL and a verbatim quote from that source. Checked 2026-11-18. Update manually when a newer official figure is published (and keep the quote in sync).",
+  "checked_on": "2026-11-18",
+  "items": {
+    "smi_monthly": {
+      "value": 1221,
+      "unit": "EUR",
+      "date": "2026",
+      "label_es": "Salario mínimo interprofesional 2026 (mensual, 14 pagas)",
+      "label_en": "Minimum wage 2026 (monthly, 14 payments)",
+      "short_es": "1 mes de salario mínimo",
+      "short_en": "1 month of minimum wage",
+      "source_name": "BOE — Real Decreto 126/2026, de 18 de febrero",
+      "source_url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3815",
+      "quote": "queda fijado en 40,70 euros/día o 1 221 euros/mes"
+    },
+    "avg_salary_annual": {
+      "value": 29540.26,
+      "unit": "EUR",
+      "date": "2024",
+      "label_es": "Salario medio anual bruto por trabajador (2024)",
+      "label_en": "Average gross annual salary per worker (2024)",
+      "short_es": "Salario medio anual",
+      "short_en": "Average annual salary",
+      "source_name": "INE — Encuesta Anual de Estructura Salarial 2024 (28/05/2026)",
+      "source_url": "https://www.ine.es/dyngs/Prensa/EAES2024.htm",
+      "quote": "El salario medio anual fue de 29.540,26 euros por trabajador en 2024, un 5,3% mayor que el del año anterior."
+    },
+    "extra_pay_factor": {
+      "value": 0.97664,
+      "unit": "ratio",
+      "date": "2025-11",
+      "label_es": "Factor paga extra = paga extraordinaria ÷ nómina ordinaria (nov. 2025: 13.399,7 ÷ 13.720,25 M€)",
+      "label_en": "Extra-payment factor = extra payment ÷ ordinary payroll (Nov 2025: 13,399.7 ÷ 13,720.25 M€)",
+      "source_name": "La Moncloa / Ministerio de Inclusión — nota de prensa 25/11/2025",
+      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2025/251125-paga-extraordinaria-pensionistas.aspx",
+      "quote": "la nómina de noviembre, que ha ascendido a 13.720 millones de euros. Junto con la nómina, este mes también se abona la paga extraordinaria, por un importe de 13.399,7 millones de euros.",
+      "note_es": "Es menor que 1 porque las pensiones de accidente de trabajo y enfermedad profesional llevan la paga extra prorrateada. Se aplica el mismo factor a todos los años (supuesto).",
+      "note_en": "Below 1 because work-accident and occupational-disease pensions have their extra payment spread monthly. The same factor is applied to every year (assumption)."
+    },
+    "executed_contributory_spending_2025": {
+      "value": 182526000000,
+      "unit": "EUR",
+      "date": "2025",
+      "label_es": "Gasto en pensiones contributivas ejecutado 2025 (liquidación presupuestaria)",
+      "label_en": "Executed contributory pension spending 2025 (budget outturn)",
+      "source_name": "La Moncloa / Ministerio de Inclusión — cierre 2025 (31/03/2026)",
+      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/310326-seguridad-social-deficit-pib.aspx",
+      "quote": "el gasto en pensiones (incapacidad permanente, jubilación, viudedad, orfandad, en favor de familiares y complementos de pensiones contributivas para la reducción de la brecha de género) se incrementa un 5,7 % hasta los 182.526 millones de euros",
+      "note_es": "Diferencia no conciliada: la suma de nóminas que usa esta web da 189.632 M€ para 2025 (+3,9 %). No hemos podido confirmar qué partidas explican la diferencia (clasificación presupuestaria distinta de la nómina). Por eso los resultados de la calculadora pueden estar hasta un ~4 % por encima del gasto contable.",
+      "note_en": "Unreconciled difference: the payroll sum used on this site gives €189,632M for 2025 (+3.9%). We could not confirm which items explain the gap (budget classification differs from the payroll). Calculator results may therefore be up to ~4% above the accounting figure."
+    },
+    "contributions_revenue": {
+      "value": 176918000000,
+      "unit": "EUR",
+      "date": "2025",
+      "label_es": "Ingresos por cotizaciones sociales del Sistema de Seguridad Social (2025)",
+      "label_en": "Social contribution revenue of the Social Security system (2025)",
+      "source_name": "La Moncloa / Ministerio de Inclusión — cierre 2025 (31/03/2026)",
+      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/310326-seguridad-social-deficit-pib.aspx",
+      "quote": "Los ingresos por cotizaciones a la Seguridad Social ascienden a 176.918 millones de euros y las cotizaciones sociales se incrementan un 6,9%."
+    },
+    "contribution_rate_total": {
+      "value": 29.2,
+      "unit": "pct",
+      "date": "2026",
+      "label_es": "Tipo de cotización de referencia: contingencias comunes 28,30 % + MEI 0,90 %",
+      "label_en": "Reference contribution rate: common contingencies 28.30% + MEI 0.90%",
+      "source_name": "BOE — Orden PJC/297/2026, de 30 de marzo (cotización 2026)",
+      "source_url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7296",
+      "quote": "Para las contingencias comunes, el 28,30 por ciento, del que el 23,60 por ciento será a cargo de la empresa y el 4,70 por ciento, a cargo de la persona trabajadora. […] aplicando el tipo del 0,90 por ciento sobre la base de cotización por contingencias comunes",
+      "note_es": "Supuesto del simulador: todos los ingresos por cotizaciones se reparten proporcionalmente a este tipo. Como también hay cotizaciones por accidentes de trabajo y otros conceptos, el efecto de +1 punto puede estar algo sobrestimado.",
+      "note_en": "Simulator assumption: all contribution revenue scales with this rate. Since there are also work-accident and other contributions, the effect of +1 point may be somewhat overstated."
+    },
+    "affiliates": {
+      "value": 22624165,
+      "unit": "people",
+      "date": "2026-10",
+      "label_es": "Afiliados medios a la Seguridad Social (octubre 2026)",
+      "label_en": "Average Social Security contributors (October 2026)",
+      "source_name": "La Moncloa / Ministerio de Inclusión — afiliación octubre 2026 (04/11/2026)",
+      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/041126-afiliacion-seguridad-social-octubre.aspx",
+      "quote": "se han registrado 22.624.165 ocupados de media, que supone el nivel más alto de los registros"
+    },
+    "ss_deficit_2025": {
+      "value": 7387000000,
+      "unit": "EUR",
+      "date": "2025",
+      "label_es": "Déficit del Sistema de Seguridad Social 2025 (ejecución presupuestaria)",
+      "label_en": "Social Security system deficit 2025 (budget execution)",
+      "source_name": "La Moncloa / Ministerio de Inclusión — cierre 2025 (31/03/2026)",
+      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/310326-seguridad-social-deficit-pib.aspx",
+      "quote": "La Seguridad Social cerró el ejercicio 2025 con un déficit de 7.387 millones de euros frente a los 9.834 millones"
+    },
+    "state_transfers_2025": {
+      "value": 47815000000,
+      "unit": "EUR",
+      "date": "2025",
+      "label_es": "Transferencias del Estado y organismos autónomos a la Seguridad Social (2025)",
+      "label_en": "Transfers from the State and its agencies to Social Security (2025)",
+      "source_name": "La Moncloa / Ministerio de Inclusión — cierre 2025 (31/03/2026)",
+      "source_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/310326-seguridad-social-deficit-pib.aspx",
+      "quote": "La partida más significativa corresponde a las transferencias recibidas del Estado y Organismos Autónomos que suma un total de 47.815 millones (un 11,0 % más).",
+      "note_es": "Incluyen la financiación de prestaciones no contributivas y los gastos asumidos por el Estado por la «separación de fuentes» (Pacto de Toledo); no todo es gasto en pensiones contributivas.",
+      "note_en": "They include funding for non-contributory benefits and costs taken over by the State under the 'separation of sources' (Toledo Pact); not all of it is contributory-pension spending."
+    },
+    "loan_cap_annual": {
+      "value": 10003806150,
+      "unit": "EUR",
+      "date": "2023-2026",
+      "label_es": "Préstamo anual autorizable del Estado a la Tesorería de la Seguridad Social",
+      "label_en": "Annual loan the State may grant to the Social Security Treasury",
+      "short_es": "Préstamo anual del Estado a la SS",
+      "short_en": "Annual State loan to Social Security",
+      "source_name": "BOE — Ley 31/2022, de Presupuestos Generales del Estado para 2023",
+      "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-22128",
+      "quote": "Se prevé que el Estado conceda préstamos por importe de hasta 10.003.806,15 miles de euros a la Tesorería de la Seguridad Social",
+      "note_es": "Es el límite legal. El Consejo de Ministros autorizó un préstamo el 20/10/2026, pero la referencia oficial no indica el importe.",
+      "note_en": "This is the legal ceiling. The Council of Ministers authorised a loan on 20/10/2026, but the official record does not state the amount."
+    },
+    "reserve_fund_current": {
+      "value": 14069810000,
+      "unit": "EUR",
+      "date": "2025-12-31",
+      "label_es": "Fondo de Reserva de la Seguridad Social («hucha de las pensiones»)",
+      "label_en": "Social Security Reserve Fund ('pension piggy bank')",
+      "short_es": "Fondo de Reserva (hucha)",
+      "short_en": "Reserve Fund",
+      "source_name": "Seguridad Social — Informe a las Cortes sobre el Fondo de Reserva 2025",
+      "source_url": "https://www.seg-social.es/descarga/es/15072026",
+      "quote": "El valor del FRSS, a 31 de diciembre de 2025, asciende a 14.069,81 M€."
+    },
+    "gdp_2025": {
+      "value": 1690012000000,
+      "unit": "EUR",
+      "date": "2025",
+      "label_es": "PIB de España a precios corrientes (2025)",
+      "label_en": "Spain nominal GDP (2025)",
+      "source_name": "INE — Contabilidad Nacional Anual (18/09/2026)",
+      "source_url": "https://www.ine.es/dyngs/Prensa/CNA2025.htm",
+      "quote": "el valor del PIB a precios corrientes para 2025 fue de 1.690.012 millones de euros"
+    },
+    "new_retirements_year": {
+      "value": 375324,
+      "unit": "people",
+      "date": "2025",
+      "label_es": "Nuevas pensiones de jubilación (altas iniciales) en 2025",
+      "label_en": "New retirement pensions (initial awards) in 2025",
+      "source_name": "INSS — libro «Evolución mensual de las pensiones», oct. 2026, hoja EVO_altas_ambos_sexos",
+      "source_url": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST23/e558ff85-1ef3-4c85-b609-8ffb8567c923",
+      "quote": "2025 | Jubilación | Número 375.324 | P. media 1.628,43 €/mes"
+    },
+    "avg_initial_retirement_pension": {
+      "value": 1628.43,
+      "unit": "EUR",
+      "date": "2025",
+      "label_es": "Pensión media inicial de las nuevas jubilaciones en 2025 (€/mes)",
+      "label_en": "Average initial pension of new retirements in 2025 (€/month)",
+      "source_name": "INSS — libro «Evolución mensual de las pensiones», oct. 2026, hoja EVO_altas_ambos_sexos",
+      "source_url": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST23/e558ff85-1ef3-4c85-b609-8ffb8567c923",
+      "quote": "2025 | Jubilación | Número 375.324 | P. media 1.628,43 €/mes"
+    },
+    "revaluation_2026": {
+      "value": 2.7,
+      "unit": "pct",
+      "date": "2026",
+      "label_es": "Revalorización general de las pensiones en 2026",
+      "label_en": "General pension uprating in 2026",
+      "source_name": "BOE — Real Decreto-ley 3/2026, de 3 de febrero",
+      "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2026-2548",
+      "quote": "se revalorizarán en 2026 con carácter general el 2,7 por ciento respecto del importe que tuvieran a 31 de diciembre de 2025"
+    },
+    "ageing_report_2050": {
+      "value": 17.3,
+      "unit": "pct",
+      "date": "2050",
+      "label_es": "Comisión Europea: gasto público bruto en pensiones de España, % del PIB (13,1 % en 2022 → máximo 17,3 % en 2050 → 16,7 % en 2070)",
+      "label_en": "European Commission: Spain's gross public pension spending, % of GDP (13.1% in 2022 → peak 17.3% in 2050 → 16.7% in 2070)",
+      "source_name": "Comisión Europea — 2024 Ageing Report, tabla II.1.64",
+      "source_url": "https://economy-finance.ec.europa.eu/document/download/971dd209-41c2-425d-94f8-e3c3c3459af9_en?filename=ip279_en.pdf",
+      "quote": "ES 3.6 13.1 13.7 14.3 15.4 16.2 16.9 17.3 17.2 16.9 16.6 16.7",
+      "note_es": "Columnas: variación 2022-70, 2022, 2025, 2030 … 2070 (cada 5 años). Incluye todas las pensiones públicas (también Clases Pasivas y no contributivas).",
+      "note_en": "Columns: change 2022-70, 2022, 2025, 2030 … 2070 (5-year steps). Covers all public pensions (incl. Clases Pasivas and non-contributory)."
+    },
+    "airef_2050": {
+      "value": 16.4,
+      "unit": "pct",
+      "date": "2050",
+      "label_es": "AIReF: gasto total en pensiones, % del PIB (13 % en 2025 → 16,4 % en 2050)",
+      "label_en": "AIReF: total pension spending, % of GDP (13% in 2025 → 16.4% in 2050)",
+      "source_name": "AIReF — Estudio 1/2026 sobre la regla de gasto de pensiones (29/05/2026)",
+      "source_url": "https://www.airef.es/wp-content/uploads/2026/05/Pensiones/Estudio_Regla_Gasto_Pensiones-2026.pdf",
+      "quote": "el gasto total en pensiones aumentará del 13 % al 16,4 % del PIB entre 2025 y 2050"
+    },
+    "loan_2026_approval": {
+      "value": 1,
+      "unit": "event",
+      "date": "2026-10-20",
+      "label_es": "Consejo de Ministros: autorización de un nuevo préstamo del Estado a la Seguridad Social (importe no publicado en la referencia)",
+      "label_en": "Council of Ministers: authorisation of a new State loan to Social Security (amount not stated in the official record)",
+      "source_name": "La Moncloa — Referencia del Consejo de Ministros, 20/10/2026",
+      "source_url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261020-referencia-rueda-de-prensa-ministros-aspx.aspx",
+      "quote": "ACUERDO por el que se autoriza la concesión de un préstamo del Estado a la Tesorería General de la Seguridad Social.",
+      "note_es": "Posterior al último dato trimestral del Banco de España (30/06/2026); aún no se refleja en la serie oficial.",
+      "note_en": "Later than the latest Banco de España quarter (30/06/2026); not yet reflected in the official series."
+    }
+  }
+}

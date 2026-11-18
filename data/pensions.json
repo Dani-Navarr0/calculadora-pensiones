@@ -1,0 +1,1817 @@
+{
+ "description": "Ordinary monthly payroll of CONTRIBUTORY pensions of the Spanish Social Security system (pensiones contributivas en vigor a día 1 de cada mes). Excludes the two extra payments (June & November), non-contributory pensions and civil-servant pensions (Clases Pasivas).",
+ "publisher": "Instituto Nacional de la Seguridad Social (INSS) - Seguridad Social, Gobierno de España",
+ "archive_url": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST23/2575",
+ "current_url": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST23/EST24",
+ "generated_at": "2026-11-18T11:00:29+00:00",
+ "monthly": [
+  {
+   "year": 2008,
+   "month": 1,
+   "pensions": 8338439,
+   "payroll_eur": 5949292273.8,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ddc01496-7239-4487-a65a-c368a130b8db/REG3012008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 2,
+   "pensions": 8335633,
+   "payroll_eur": 5959252722.58,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/645c05f9-9fa0-4c65-8275-60904e65b2d8/REG3022008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 3,
+   "pensions": 8350821,
+   "payroll_eur": 5978720958.67,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ceba974f-43c6-4f5a-aabd-f9e35b05a18e/REG3032008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 4,
+   "pensions": 8359184,
+   "payroll_eur": 5992590700.27,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/4fb97a38-5165-4211-a494-ed2bc296c4b8/REG3042008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 5,
+   "pensions": 8359370,
+   "payroll_eur": 6008947025.19,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/73b5dec0-f8de-431c-8864-a27cba030248/REG3052008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 6,
+   "pensions": 8382778,
+   "payroll_eur": 6032110453.83,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/927ea8ab-a0e3-42d4-a396-780fe2e0db78/REG3062008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 7,
+   "pensions": 8393480,
+   "payroll_eur": 6045618208.55,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/3f6877b4-8937-4e56-b424-89ed010e8bff/REG3072008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 8,
+   "pensions": 8409661,
+   "payroll_eur": 6066099682.43,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2d35c492-0a56-4ece-bd94-c8ffc555e290/REG3082008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 9,
+   "pensions": 8415469,
+   "payroll_eur": 6076482630.62,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/a0dbf244-c1fa-4516-995c-240801e4e898/REG3092008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 10,
+   "pensions": 8431904,
+   "payroll_eur": 6097262632.01,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/00f556ad-5fe0-40bc-b182-d6877134d883/REG3102008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 11,
+   "pensions": 8448465,
+   "payroll_eur": 6118878843.59,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0869c3a0-6824-4e40-95b5-505dcabf29b6/REG3112008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2008,
+   "month": 12,
+   "pensions": 8464342,
+   "payroll_eur": 6138600269.18,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/9f72b32c-429c-431e-8db3-888f2a40aac6/REG3122008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 1,
+   "pensions": 8473927,
+   "payroll_eur": 6332123204.28,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/4d97b032-7e68-43c3-8c3c-530d073fa809/REG3012009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 2,
+   "pensions": 8468528,
+   "payroll_eur": 6342763844.38,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/26239d82-4530-4d46-b774-07b968ab245f/REG3022009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 3,
+   "pensions": 8488198,
+   "payroll_eur": 6367449402.53,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/95027f8e-2277-4412-94be-2101df27c024/REG3032009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 4,
+   "pensions": 8503843,
+   "payroll_eur": 6388880939.75,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/44af61ef-1dd7-48da-980c-5b798ff61698/REG3042009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 5,
+   "pensions": 8506637,
+   "payroll_eur": 6405512792.44,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/75c02e53-3ae5-4e94-bd5e-44f690c88ca8/REG3052009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 6,
+   "pensions": 8522524,
+   "payroll_eur": 6425375040.23,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/8f357609-42e5-4462-8930-de2dfdbfc470/REG3062009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 7,
+   "pensions": 8539722,
+   "payroll_eur": 6445789921.55,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/28d32034-d01c-45eb-b94d-3a1ebcf709f6/REG3072009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 8,
+   "pensions": 8553971,
+   "payroll_eur": 6465562550.82,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0bc70f02-96ba-4821-9807-862fcbbdc2be/REG3082009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 9,
+   "pensions": 8559351,
+   "payroll_eur": 6476638075.27,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/a328f46e-236c-40aa-b023-033aeee0ac49/REG3092009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 10,
+   "pensions": 8574060,
+   "payroll_eur": 6497371918.78,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f74d76c5-0df0-4b13-bfb6-3e6913751a11/REG3102009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 11,
+   "pensions": 8588336,
+   "payroll_eur": 6517548445.06,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2d624169-30b2-45ed-91c4-10f20a8a86d1/REG3112009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2009,
+   "month": 12,
+   "pensions": 8604119,
+   "payroll_eur": 6537944046.68,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/00fb4dd1-1a55-4b38-a9ff-bbf7e1f50411/REG3122009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 1,
+   "pensions": 8614876,
+   "payroll_eur": 6655568942.85,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/14638b2f-5362-4fc0-9229-cbd1381aa520/REG3012010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 2,
+   "pensions": 8611931,
+   "payroll_eur": 6666896961.13,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/3e4701cc-edd5-406d-8650-4355039ec73a/REG3022010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 3,
+   "pensions": 8629461,
+   "payroll_eur": 6690386960.98,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b76246dd-7ca3-4724-8498-0ed2a26097ec/REG3032010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 4,
+   "pensions": 8644045,
+   "payroll_eur": 6711620754.41,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b4ff122d-884a-4a3e-8b78-f137ea63d31d/REG3042010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 5,
+   "pensions": 8647592,
+   "payroll_eur": 6729030840.62,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/52ca900f-2ec5-4230-8533-2020a2d8da72/REG3052010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 6,
+   "pensions": 8662633,
+   "payroll_eur": 6750169940.59,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/11dce4c2-4f29-4fac-837f-474f9daf2128/REG3062010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 7,
+   "pensions": 8677954,
+   "payroll_eur": 6770958826.53,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/1bd78afb-b649-48e2-8be3-62efa58b9a84/REG3072010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 8,
+   "pensions": 8690240,
+   "payroll_eur": 6790030977.33,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/138eda2a-7594-4e08-91ea-a0a31c62a7fc/REG3082010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 9,
+   "pensions": 8697520,
+   "payroll_eur": 6803691531.99,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/730ba09f-3370-4722-bc23-8f69a40e90c2/REG3092010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 10,
+   "pensions": 8711406,
+   "payroll_eur": 6825544175.75,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e5eb32ec-297e-43ad-84d9-4faa6fcfc7ab/REG3102010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 11,
+   "pensions": 8724822,
+   "payroll_eur": 6845883073.28,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/61b1a7e0-9696-4d4a-98f5-8768faf40bb4/REG3112010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2010,
+   "month": 12,
+   "pensions": 8739732,
+   "payroll_eur": 6867947715.0,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/da286655-01e2-4d75-b089-bf86c583054c/REG3122010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 1,
+   "pensions": 8749054,
+   "payroll_eur": 6981064577.72,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/02880ab5-441e-4cc4-9e79-27a91fc771d8/REG3012011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 2,
+   "pensions": 8752625,
+   "payroll_eur": 7000362610.07,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/a0c48eeb-e766-4b0d-b053-8cb7eb8fa6b3/REG3022011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 3,
+   "pensions": 8768427,
+   "payroll_eur": 7023965027.8,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2912845e-3318-49c3-8227-bc14b723f969/REG3032011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 4,
+   "pensions": 8783766,
+   "payroll_eur": 7046821085.73,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/53cc00d1-4cde-42d2-a044-8cb04f289513/REG3042011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 5,
+   "pensions": 8782955,
+   "payroll_eur": 7060024500.45,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/eae8810f-d0b9-42a3-aa44-8a5c7aebae0e/REG3052011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 6,
+   "pensions": 8798786,
+   "payroll_eur": 7081212545.37,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/cd41f116-9d58-4c26-ad50-9adb0a0c35ba/REG3062011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 7,
+   "pensions": 8812560,
+   "payroll_eur": 7100866454.7,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/cc46de34-eba6-43f2-afa4-b97309cd9c6c/REG3072011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 8,
+   "pensions": 8822156,
+   "payroll_eur": 7117462272.82,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ea291d65-b5da-4749-bade-3e4ba6c4bec5/REG3082011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 9,
+   "pensions": 8830482,
+   "payroll_eur": 7131852223.78,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/56967c04-a3f2-49ce-a7ad-df4d361d8704/REG3092011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 10,
+   "pensions": 8841693,
+   "payroll_eur": 7151356172.31,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f54307b9-4ac5-4204-9d46-610092144a87/REG3102011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 11,
+   "pensions": 8853188,
+   "payroll_eur": 7169587475.39,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/63dd0f9f-56cc-4295-a65e-35820d8c982b/REG3112011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2011,
+   "month": 12,
+   "pensions": 8866277,
+   "payroll_eur": 7189252275.58,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/daa2b314-8376-4e55-b15a-18cd3554b402/REG3122011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 1,
+   "pensions": 8871435,
+   "payroll_eur": 7299620406.65,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/3cc589e3-31e4-4340-9fba-5af33748de3d/REG3012012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 2,
+   "pensions": 8870836,
+   "payroll_eur": 7314526764.79,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e9873bbf-4797-49c6-8488-1e83a2fd018b/REG3022012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 3,
+   "pensions": 8879395,
+   "payroll_eur": 7333011907.02,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/cee79ec3-cb97-4448-92c4-2157a00f43c4/REG3032012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 4,
+   "pensions": 8886617,
+   "payroll_eur": 7349466423.71,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/8b002bfb-d8fb-42c4-8733-4b56f7b1124e/REG3042012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 5,
+   "pensions": 8896478,
+   "payroll_eur": 7366866797.04,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/36ffff55-7003-467b-9164-fc30c13902ff/REG3052012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 6,
+   "pensions": 8902683,
+   "payroll_eur": 7385394395.06,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/67b3db7f-da09-4864-b3a6-283b20a4f4ee/REG3062012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 7,
+   "pensions": 8918804,
+   "payroll_eur": 7407123390.56,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f193f09e-9400-4242-bc5c-949288bfc7ba/REG3072012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 8,
+   "pensions": 8934220,
+   "payroll_eur": 7429156930.42,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b3cc4ec9-4dc0-40ef-97a1-5afb511ceaf0/REG3082012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 9,
+   "pensions": 8942282,
+   "payroll_eur": 7444112443.09,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e82df79a-3e69-499e-9526-ad0067520dfa/REG3092012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 10,
+   "pensions": 8957176,
+   "payroll_eur": 7466947878.26,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f7955cc2-3cb4-4def-aba2-7a99d6b88348/REG3102012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 11,
+   "pensions": 8980993,
+   "payroll_eur": 7499061639.19,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/fca46443-c8d8-48c0-abbd-dee10de91069/REG3112012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2012,
+   "month": 12,
+   "pensions": 8999045,
+   "payroll_eur": 7525592554.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e8dcf01f-5b9b-4b59-99ab-52be4e1fb628/REG3122012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 1,
+   "pensions": 9008348,
+   "payroll_eur": 7653473729.69,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/122462ba-27ec-43d2-b09a-21cee0de625d/REG3012013.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 2,
+   "pensions": 9000284,
+   "payroll_eur": 7661026391.04,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/76fd7ce3-930d-442c-83e6-b78f5611fcd2/REG3022013.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 3,
+   "pensions": 9016587,
+   "payroll_eur": 7687649199.53,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f78137c9-7163-4b2f-baa9-d8476ce80f25/REG3032013.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 4,
+   "pensions": 9028077,
+   "payroll_eur": 7707457361.92,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/db469014-5155-4d93-9a04-1174a5dc1472/REG3042013.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 5,
+   "pensions": 9037597,
+   "payroll_eur": 7732018258.01,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/c1c08759-85c2-4fb2-aa0b-13a3cfd6f03d/REG3052013.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 6,
+   "pensions": 9058379,
+   "payroll_eur": 7756345817.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ca7bd13d-2981-498f-a1f6-098f9a0a2078/REG3201306.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 7,
+   "pensions": 9074311,
+   "payroll_eur": 7777305794.61,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0bef8d76-d97f-4e45-8d7f-d28c177bacca/REG3201307.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 8,
+   "pensions": 9087402,
+   "payroll_eur": 7797987659.69,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/7c159ff2-39ae-4e24-85cd-8cb473660db7/REG3201308.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 9,
+   "pensions": 9095046,
+   "payroll_eur": 7812612635.48,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/589965cd-6b66-4e70-be8f-966e50bfe986/REG3092013.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 10,
+   "pensions": 9109706,
+   "payroll_eur": 7834375617.29,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/3de77953-2905-4988-9ff4-9437205b6330/REG3201310.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 11,
+   "pensions": 9128251,
+   "payroll_eur": 7860014993.49,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/6d2a7d8e-6421-4017-92af-19520ddd0cc3/REG3201311.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2013,
+   "month": 12,
+   "pensions": 9145966,
+   "payroll_eur": 7883827859.08,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/096f2ed1-294c-47f1-8699-1c0cc944b187/REG3201312.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 1,
+   "pensions": 9154617,
+   "payroll_eur": 7918052928.94,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/dd6cfbba-52f8-4f1e-bae4-762c02230320/REG3201401.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 2,
+   "pensions": 9147704,
+   "payroll_eur": 7927135993.28,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/18926bbd-097c-45bf-a60c-c5cde9ae5996/REG3201402.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 3,
+   "pensions": 9159750,
+   "payroll_eur": 7946371377.49,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/79d44e91-a286-4561-b6ed-b195e8fd8cca/REG3201403.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 4,
+   "pensions": 9172026,
+   "payroll_eur": 7965628512.53,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/37e387ce-2132-49f0-9457-fa1be9a3a413/REG3201404.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 5,
+   "pensions": 9174382,
+   "payroll_eur": 7982379582.7,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0f4ee20d-637b-47c2-aa91-ebcf5a0ffdc5/REG3201405.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 6,
+   "pensions": 9190583,
+   "payroll_eur": 8002725898.22,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/877331b7-3e6c-428c-bfee-6dd0a654c8a1/REG3201406.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 7,
+   "pensions": 9204151,
+   "payroll_eur": 8021563015.84,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f704d4fa-3984-41dc-a0b2-75559cebdd3f/REG3201407.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 8,
+   "pensions": 9218521,
+   "payroll_eur": 8042955518.48,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/aaae98b1-c271-4ef1-aeb4-1076e9a4606b/REG3201408.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 9,
+   "pensions": 9223338,
+   "payroll_eur": 8053828449.71,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/6af9bc62-9e54-41c0-91e7-f846ff6c5535/REG3201409.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 10,
+   "pensions": 9239688,
+   "payroll_eur": 8078681991.61,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/57827aed-31a1-4a21-9184-6c9a8b3e7e05/REG3201410.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 11,
+   "pensions": 9257263,
+   "payroll_eur": 8104927037.67,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/25f83d4e-2cc2-41be-8c19-c45b7a54fce4/REG3201411.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2014,
+   "month": 12,
+   "pensions": 9270942,
+   "payroll_eur": 8126245789.7,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/92759cdf-faa0-4f7b-9629-ee967548ccc0/REG3201412.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 1,
+   "pensions": 9282732,
+   "payroll_eur": 8164321927.57,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/c8bb087a-005b-44f9-b5ac-58490d9bb2db/REG3201501.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 2,
+   "pensions": 9267273,
+   "payroll_eur": 8169078862.64,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/11d28ab7-a4ee-4b81-a072-b849e52adcb7/REG3201502.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 3,
+   "pensions": 9270398,
+   "payroll_eur": 8183521587.82,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/1228e663-8c92-457b-8ddb-47b652fa7df2/REG3201503.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 4,
+   "pensions": 9279340,
+   "payroll_eur": 8201895999.33,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/6ffc9c7f-934e-4871-835a-e1a54cd24689/REG3201504.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 5,
+   "pensions": 9278782,
+   "payroll_eur": 8217864873.58,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/8aed9778-9a61-4851-82fb-f088c94a63d5/REG3201505.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 6,
+   "pensions": 9293058,
+   "payroll_eur": 8237889344.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/81edf078-62ac-425e-8dc7-d6034d741959/REG3201506.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 7,
+   "pensions": 9307631,
+   "payroll_eur": 8259681406.05,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/6b1db245-649a-4e23-b3b4-67ea34c5a184/REG3201507.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 8,
+   "pensions": 9308146,
+   "payroll_eur": 8270543347.04,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/1906f850-2856-4185-88a8-631f086301f2/REG3201508.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 9,
+   "pensions": 9322249,
+   "payroll_eur": 8292850670.05,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/71561ea3-8de1-4297-b750-f42eae980d03/REG3201509.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 10,
+   "pensions": 9335224,
+   "payroll_eur": 8316567391.75,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0eb001ba-632c-4b9e-a25a-a648880a0784/REG3201510.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 11,
+   "pensions": 9349029,
+   "payroll_eur": 8340512531.2,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/91f3cf53-0baa-4e6e-a64e-25844c01f98e/REG3201511.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2015,
+   "month": 12,
+   "pensions": 9360799,
+   "payroll_eur": 8360421922.82,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/7fac2eb7-7cdb-4c19-9262-b7046525c40f/REG3201512.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 1,
+   "pensions": 9353988,
+   "payroll_eur": 8384006406.55,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/bee6a0db-c5ee-45cb-b87d-0b50fb285406/REG3201601.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 2,
+   "pensions": 9360522,
+   "payroll_eur": 8405847021.6,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f27fcc00-2d2b-45db-842f-75779c37783d/REG3201602.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 3,
+   "pensions": 9371760,
+   "payroll_eur": 8427912685.15,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/9fc1d09a-f951-4c14-abc6-dd8aaf5e6f5e/REG3201603.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 4,
+   "pensions": 9378369,
+   "payroll_eur": 8445187151.78,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/59d9f9d1-cfe6-4f60-8666-33c06c2b7a80/REG3201604.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 5,
+   "pensions": 9384016,
+   "payroll_eur": 8467281855.21,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/7906a56f-57ed-46ea-b9a5-b4dd1d71a214/REG3201605.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 6,
+   "pensions": 9402148,
+   "payroll_eur": 8491487419.84,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/305b90b3-187f-4b89-bacf-9ea84540a37b/REG3201606.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 7,
+   "pensions": 9417724,
+   "payroll_eur": 8514935724.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/05bad212-d82d-49ea-9b0b-df07a07364d9/REG3201607.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 8,
+   "pensions": 9427785,
+   "payroll_eur": 8534969533.77,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/62c9fc82-ea55-4fb4-9e38-8099a24c8788/REG3201608.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 9,
+   "pensions": 9433986,
+   "payroll_eur": 8550644431.46,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/1dceaf7f-af70-47a3-83d4-d315c85860e5/REG3201609.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 10,
+   "pensions": 9447945,
+   "payroll_eur": 8576603740.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/8e2f4d3a-5a0a-481c-aecd-04e46df7db15/REG3201610.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 11,
+   "pensions": 9458366,
+   "payroll_eur": 8598610998.12,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0e6148ba-e688-4217-8d4b-971f5f26b823/REG3201611.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2016,
+   "month": 12,
+   "pensions": 9473482,
+   "payroll_eur": 8623178308.25,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/81fa30b1-6d46-47a8-8a43-2195f734d89a/REG3201612.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 1,
+   "pensions": 9465328,
+   "payroll_eur": 8647825155.3,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0ffd8626-9699-4c9b-9085-7d8bc7bda7c4/REG3201701.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 2,
+   "pensions": 9459746,
+   "payroll_eur": 8660646661.52,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/58652322-a81c-4519-9bd1-d63bcbadd185/REG3201702.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 3,
+   "pensions": 9474556,
+   "payroll_eur": 8684499987.13,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/21e3405e-b47d-4b66-bfc8-7721c63d0ba4/REG3201703.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 4,
+   "pensions": 9490771,
+   "payroll_eur": 8709743948.18,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/05b00611-2bd4-46f7-9da1-8b37851bbb68/REG3201704.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 5,
+   "pensions": 9485660,
+   "payroll_eur": 8722497374.72,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/650aba5e-f93d-467c-b2e2-3f33a75781eb/REG3201705.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 6,
+   "pensions": 9505965,
+   "payroll_eur": 8747586899.81,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/c7587c52-bb3a-43b5-b939-0874db9030f2/REG3201706.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 7,
+   "pensions": 9521991,
+   "payroll_eur": 8770695573.73,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/5376b3ef-ef6d-436e-a216-5d137f510b8f/REG3201707.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 8,
+   "pensions": 9532495,
+   "payroll_eur": 8790614096.15,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/cffe4de1-eb46-4097-b362-6cf4298821b6/REG3201708.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 9,
+   "pensions": 9539644,
+   "payroll_eur": 8807294792.47,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/c242f279-c325-4c94-a5e0-45ce92b219c7/REG3201709.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 10,
+   "pensions": 9552302,
+   "payroll_eur": 8831642265.26,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/105bbcb4-1aaf-4919-b899-b2395baf534d/REG3201710.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 11,
+   "pensions": 9567387,
+   "payroll_eur": 8857947328.28,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ec9a1278-d48e-47a5-a809-ab77304f180a/REG3201711.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2017,
+   "month": 12,
+   "pensions": 9581770,
+   "payroll_eur": 8881027684.88,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b383a6c1-6a9d-4c18-9e33-d7a599a946f5/REG3201712.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 1,
+   "pensions": 9572422,
+   "payroll_eur": 8904935706.89,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/956b0f71-0458-4597-abc2-13277677a1a9/REG3201801.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 2,
+   "pensions": 9573282,
+   "payroll_eur": 8925120214.79,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f19403c5-63ef-4dc1-a0e4-504cc7a6913e/REG3201802.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 3,
+   "pensions": 9583617,
+   "payroll_eur": 8946968420.27,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2ed4f987-90d0-4d4d-874d-1dc2dde95701/REG3201803.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 4,
+   "pensions": 9592024,
+   "payroll_eur": 8965040144.04,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/fc63b722-f882-4636-9028-02f5e2171597/REG3201804.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 5,
+   "pensions": 9592963,
+   "payroll_eur": 8984765070.13,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/767b69d8-d09f-43e2-a205-06e9aa57b375/REG3201805.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 6,
+   "pensions": 9613641,
+   "payroll_eur": 9009811834.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2f5dd1bb-e3e0-4330-a463-73f0b3901c1b/REG3201806.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 7,
+   "pensions": 9629489,
+   "payroll_eur": 9032442378.7,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/31189487-d36d-4a83-98f5-103d2d092a99/REG3201807.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 8,
+   "pensions": 9638029,
+   "payroll_eur": 9217962851.58,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/47d424f7-1919-42e2-b396-9ab1e1be31cb/REG3201808.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 9,
+   "pensions": 9646404,
+   "payroll_eur": 9235071818.53,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/da1f1bd7-2d67-46bd-a3cb-fd3bf37bcf6e/REG3201809.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 10,
+   "pensions": 9656942,
+   "payroll_eur": 9256740841.88,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/17672f15-8e28-4b5d-b066-138b04ef9dc0/REG3201810.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 11,
+   "pensions": 9675138,
+   "payroll_eur": 9287273585.52,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/392cd54c-3450-4bea-a6e7-2e2f51f9cdf8/REG3201811.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2018,
+   "month": 12,
+   "pensions": 9696272,
+   "payroll_eur": 9317935936.1,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/91b0c353-acaf-433c-9ce3-710b25f6dd18/REG3201812.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 1,
+   "pensions": 9695870,
+   "payroll_eur": 9535522482.35,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/324d16c8-b231-4687-8eef-257605c1a7ff/REG3201901.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 2,
+   "pensions": 9707140,
+   "payroll_eur": 9563128987.23,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/53b64086-ff0f-4a5d-99c0-106175b737b7/REG3201902.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 3,
+   "pensions": 9705436,
+   "payroll_eur": 9576479179.25,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/5513cacc-f36e-4e78-9355-94ef5727be73/REG3201903.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 4,
+   "pensions": 9715288,
+   "payroll_eur": 9598051256.05,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/628669dd-66a4-4870-bceb-b7a7a034d322/REG3201904.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 5,
+   "pensions": 9707946,
+   "payroll_eur": 9610963317.66,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/c7988581-2e56-4c25-b51b-a355f0192f98/REG3201905.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 6,
+   "pensions": 9733234,
+   "payroll_eur": 9644343913.75,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/8cb227cf-7fcc-4067-a43b-78fb98410cb7/REG3201906.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 7,
+   "pensions": 9745121,
+   "payroll_eur": 9662137927.13,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/fe691a1e-3af0-47a0-8741-9530ebc3412d/REG3201907.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 8,
+   "pensions": 9756142,
+   "payroll_eur": 9681518773.79,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/952d2282-65b1-4082-84e1-59c9f1c7269a/REG3201908.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 9,
+   "pensions": 9760299,
+   "payroll_eur": 9693009718.11,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/62b39359-b746-4737-8a82-671c359a33f6/REG3201909.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 10,
+   "pensions": 9768801,
+   "payroll_eur": 9710390989.32,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0bd96233-e712-4ace-bd09-4f3e02151503/REG3201910.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 11,
+   "pensions": 9784262,
+   "payroll_eur": 9735501352.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b14b31dc-a6c0-4177-a5fb-9128726cfd24/REG3201911.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2019,
+   "month": 12,
+   "pensions": 9801379,
+   "payroll_eur": 9759800078.17,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/fe973909-86b5-4f7d-96ca-6f7dbca65f11/REG3201912.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 1,
+   "pensions": 9801016,
+   "payroll_eur": 9768990439.42,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ef0d7aaa-3e02-46d1-9a3f-320af10fb0ce/REG3202001.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 2,
+   "pensions": 9805148,
+   "payroll_eur": 9872320924.17,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/969bdfcc-708d-48ba-b615-d8e8490ad5e1/REG3202002.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 3,
+   "pensions": 9799395,
+   "payroll_eur": 9877774622.96,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/abcf1bf1-ca8d-4761-9eea-26c01328eb2f/REG3202003.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 4,
+   "pensions": 9792645,
+   "payroll_eur": 9879161131.65,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/3eab1099-08b2-4a4d-b8dc-599aa2c7ca4e/REG3202004.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 5,
+   "pensions": 9754137,
+   "payroll_eur": 9852780956.72,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/bc3b6dcc-fd88-47e3-89ed-959ad1018c86/REG3202005.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 6,
+   "pensions": 9754740,
+   "payroll_eur": 9862348993.33,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/a00a3049-2425-4e2d-9a32-9a0f9024e9e3/REG3202006.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 7,
+   "pensions": 9767050,
+   "payroll_eur": 9882661790.25,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/1c423910-899b-47bc-8fa3-262b8d7a6718/REG2202007.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 8,
+   "pensions": 9777556,
+   "payroll_eur": 9904028839.32,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2a894640-2ea2-4bbd-81b8-56698a2efa97/REG202008.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 9,
+   "pensions": 9765352,
+   "payroll_eur": 9911425133.54,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/eb751d03-8a17-4814-8f00-2425f75d897d/REG202009.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 10,
+   "pensions": 9773471,
+   "payroll_eur": 9930112649.81,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/69f6298a-6afd-4af7-b87f-c8fa6754f13b/REG202010.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 11,
+   "pensions": 9788587,
+   "payroll_eur": 9955091158.78,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/674b3954-1d6a-432e-9585-26b1ef56112b/REG202011.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2020,
+   "month": 12,
+   "pensions": 9809019,
+   "payroll_eur": 9985259808.18,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/083423d3-1fbc-4203-819b-11b7965ecc42/REG202012.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 1,
+   "pensions": 9811124,
+   "payroll_eur": 10087696785.59,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ce7471d1-bb29-4f56-83d2-53f28f7605c9/REG202101.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 2,
+   "pensions": 9807250,
+   "payroll_eur": 10100520571.4,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f2459daa-bc00-4287-93c4-8ed9c5aca6de/REG202102.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 3,
+   "pensions": 9815728,
+   "payroll_eur": 10119588308.76,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/61e6e71b-8db8-4e1d-9615-5662ee7e9ad6/REG202103.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 4,
+   "pensions": 9825545,
+   "payroll_eur": 10136195749.26,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2cbf16a0-d8b6-42b7-896b-17be30bd8a07/REG202104.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 5,
+   "pensions": 9836115,
+   "payroll_eur": 10154136670.53,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0f95b5ce-e39e-4294-8ec5-379d366e80d5/REG202105.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 6,
+   "pensions": 9854685,
+   "payroll_eur": 10180229471.96,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/176c4d9f-d2ad-4464-b440-99dcaeae5aa7/REG202106.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 7,
+   "pensions": 9868153,
+   "payroll_eur": 10202294284.26,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0b0883fa-e060-45c9-a174-b99f2fab5e84/REG202107.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 8,
+   "pensions": 9862327,
+   "payroll_eur": 10217154712.06,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/7b7ab2f8-28cf-4641-b8ce-5e44d8bbff66/REG202108.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 9,
+   "pensions": 9871644,
+   "payroll_eur": 10233851666.82,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e0ddfd3c-4c87-4bd1-b052-844dc9290e58/REG202109.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 10,
+   "pensions": 9881206,
+   "payroll_eur": 10251523240.05,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/39247e20-5395-4e63-8ac4-25ca4ff7b78c/REG202110.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 11,
+   "pensions": 9899198,
+   "payroll_eur": 10280250438.05,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/68b98c12-9a8a-4701-a477-fe8509b7870d/REG202111.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2021,
+   "month": 12,
+   "pensions": 9916966,
+   "payroll_eur": 10309089867.88,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/5eef89a3-1a77-4a55-80f0-8947bb9bf8eb/REG202112.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 1,
+   "pensions": 9922051,
+   "payroll_eur": 10745394183.55,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b8f12b7b-8ceb-4122-9aaa-35860b93345a/REG202201.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 2,
+   "pensions": 9912271,
+   "payroll_eur": 10755506098.11,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/01d18eb5-e193-4890-8544-38de94695bb5/REG202202.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 3,
+   "pensions": 9923175,
+   "payroll_eur": 10781753603.67,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/069ec6cd-b0f4-48e8-8c30-e36ab535d171/REG202203.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 4,
+   "pensions": 9929502,
+   "payroll_eur": 10798086160.98,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/a647b18b-403a-44c7-a533-efd8c4da18be/REG202204.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 5,
+   "pensions": 9918996,
+   "payroll_eur": 10810357000.91,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/850f0d00-3b8f-4c45-8604-1021ff848b5b/REG202205.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 6,
+   "pensions": 9936182,
+   "payroll_eur": 10832188414.94,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/de27b33b-50fb-447a-8f5b-fa55a9a7f63c/REG202206.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 7,
+   "pensions": 9946399,
+   "payroll_eur": 10845854845.98,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/33c17c26-bd65-4bf6-b863-6dbf7d7fca7c/REG202207.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 8,
+   "pensions": 9948815,
+   "payroll_eur": 10856988636.12,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b03b4621-2b87-46ee-8cdb-db52af802848/REG202208.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 9,
+   "pensions": 9949869,
+   "payroll_eur": 10867048776.94,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/997b4e62-f02e-4397-abfe-8c66a8e72d88/REG202209.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 10,
+   "pensions": 9959123,
+   "payroll_eur": 10886567923.01,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f6e16193-1b21-4814-9137-b7ef668aa9b7/REG202210.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 11,
+   "pensions": 9975234,
+   "payroll_eur": 10913108732.53,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/41bf7950-d601-4dfb-85a0-dd67f7b8ed86/REG202211.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2022,
+   "month": 12,
+   "pensions": 9994836,
+   "payroll_eur": 10942996799.91,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2f6fa542-5dc9-42b1-adf8-a0d04dd84ecf/REG202212.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 1,
+   "pensions": 10009149,
+   "payroll_eur": 11902110580.6,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/4f069acc-9f70-4dce-9e68-808cf0b34954/REG202301.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 2,
+   "pensions": 10007629,
+   "payroll_eur": 11921936101.63,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b1f4e4b8-2ac9-4707-90a4-102abbd27849/REG202302.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 3,
+   "pensions": 10019006,
+   "payroll_eur": 11945629926.99,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/33556442-43d6-4a6c-9974-d449c7061ae9/REG202303.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 4,
+   "pensions": 10026535,
+   "payroll_eur": 11962664055.52,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/917705a8-d42b-4023-a6fa-e143ff412d04/REG202304.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 5,
+   "pensions": 10019689,
+   "payroll_eur": 11974340019.38,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/cad13d03-7cbb-4d45-b147-7191181ae5e5/REG202305.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 6,
+   "pensions": 10040732,
+   "payroll_eur": 11997197878.94,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/eeb7ec63-c385-4f73-846b-ff9d985a5242/REG202306.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 7,
+   "pensions": 10055940,
+   "payroll_eur": 12017761741.88,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e1b99300-936a-477f-97d0-34a4a666f5d9/REG202307.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 8,
+   "pensions": 10069148,
+   "payroll_eur": 12039160500.92,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ebfc317e-3912-4a65-a26d-f311578ca78b/REG202308.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 9,
+   "pensions": 10073434,
+   "payroll_eur": 12051390519.17,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f4d1ede8-f96d-4fc5-b770-a2e8fb60b10d/REG202309.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 10,
+   "pensions": 10085672,
+   "payroll_eur": 12075319792.68,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/69ca7dee-c0b0-427c-a964-d7bcc355d2ba/REG202310.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 11,
+   "pensions": 10101961,
+   "payroll_eur": 12100798791.8,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ffcd5882-8c44-4e1b-995f-dee40f01671e/REG202311.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2023,
+   "month": 12,
+   "pensions": 10111991,
+   "payroll_eur": 12120784564.23,
+   "method": "num_x_media",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e1eb9065-a9ef-4432-b877-5922ae5db19d/REG202312.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 1,
+   "pensions": 10132479,
+   "payroll_eur": 12651209903.84,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/ffc7cd9b-4ed4-414a-8be8-7fce98192d81/REG202401.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 2,
+   "pensions": 10128762,
+   "payroll_eur": 12668173200.53,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2d2fdb50-2376-427e-9cb3-ec19ee38007e/REG202402.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 3,
+   "pensions": 10142082,
+   "payroll_eur": 12693135782.22,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/0ba9b440-45a1-4a48-8263-b84d934ea2d8/REG202403.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 4,
+   "pensions": 10149834,
+   "payroll_eur": 12710827038.28,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/1a1bac8e-0ce4-4f1a-ac1a-ffca5590b1b6/REG202404.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 5,
+   "pensions": 10150528,
+   "payroll_eur": 12732234396.95,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/9c94f9ca-c516-4219-9c51-37f8f9770eed/REG202405.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 6,
+   "pensions": 10163619,
+   "payroll_eur": 12751518807.19,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/57743433-acfa-436f-b591-927ec1f659be/REG202406.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 7,
+   "pensions": 10188792,
+   "payroll_eur": 12793824587.08,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/79493a25-2c2e-4b7f-8039-21001f636b3e/REG202407.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 8,
+   "pensions": 10208300,
+   "payroll_eur": 12828769791.56,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/855393ad-d325-48b5-a4d8-40c989591220/REG202408.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 9,
+   "pensions": 10218434,
+   "payroll_eur": 12855204623.02,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/8ca64a39-fc83-4a0d-8d00-596b5a19a753/REG202409.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 10,
+   "pensions": 10238434,
+   "payroll_eur": 12895768397.76,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f41d5ab5-612c-4bdf-bacc-8643925247ec/REG202410.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 11,
+   "pensions": 10263079,
+   "payroll_eur": 12940982738.81,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/166e8af4-c419-46bc-ad3f-c4b7ebc14884/REG202411.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2024,
+   "month": 12,
+   "pensions": 10281477,
+   "payroll_eur": 12974211473.19,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/9838a508-43da-4e88-b8b9-85db3b40d281/REG202412.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 1,
+   "pensions": 10294786,
+   "payroll_eur": 13432387458.94,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/25531ab0-5016-4c58-8d9d-9a2093984083/REG202501.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 2,
+   "pensions": 10293631,
+   "payroll_eur": 13455612262.25,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/66b0ab55-ea5a-4489-9185-e0bfdc782577/REG202502.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 3,
+   "pensions": 10313634,
+   "payroll_eur": 13492499747.28,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/3a73f716-ebb7-4928-83fe-9c5bc8bcdf09/REG202503.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 4,
+   "pensions": 10324244,
+   "payroll_eur": 13515201019.26,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/4723d80c-877c-4ce6-8c1a-722166c24624/REG202504.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 5,
+   "pensions": 10321860,
+   "payroll_eur": 13532331346.17,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/629cdb23-c414-4ba1-a151-ba86552b630f/REG202505.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 6,
+   "pensions": 10342975,
+   "payroll_eur": 13563842966.71,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e2576dfa-c266-4243-bd4a-2e8ff05859e9/REG202506.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 7,
+   "pensions": 10357872,
+   "payroll_eur": 13588765775.1,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/b461081d-8780-4e02-8b47-dd0436ee3987/REG202507.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 8,
+   "pensions": 10374297,
+   "payroll_eur": 13620894657.74,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/2b5b701a-18c4-4819-b950-a9f365ced81e/REG202508.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 9,
+   "pensions": 10379303,
+   "payroll_eur": 13638084076.42,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/d58335ee-5ce4-44db-89e2-f5a3dc8068b3/REG202509.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 10,
+   "pensions": 10397372,
+   "payroll_eur": 13675796944.71,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/647c9ef2-543a-49c2-9b1c-bca843a85602/REG202510.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 11,
+   "pensions": 10420231,
+   "payroll_eur": 13720249343.31,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/a0b543d6-e76f-4be9-9c5d-73e451e5cc27/REG202511.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2025,
+   "month": 12,
+   "pensions": 10434856,
+   "payroll_eur": 13750093542.06,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f5268f7a-ccb4-4b4c-9306-9b75115de92d/REG202512.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 1,
+   "pensions": 10452674,
+   "payroll_eur": 14250714013.65,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/f6fb5a16-294a-4a50-9601-bc8e75933348/REG202601.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 2,
+   "pensions": 10446888,
+   "payroll_eur": 14272490399.18,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/24c93cf8-244f-4ce7-bafa-59ce752d80ab/REG202602.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 3,
+   "pensions": 10463537,
+   "payroll_eur": 14307664784.71,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/bd0ca8b6-2517-40d0-95aa-cd5967e93fa9/REG202603.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 4,
+   "pensions": 10476332,
+   "payroll_eur": 14336235196.5,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/e44dd1c9-fc98-43aa-a2f0-9f346887701a/REG202604.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 5,
+   "pensions": 10480593,
+   "payroll_eur": 14365845482.86,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/9a66b95e-2270-4f8f-ac03-5e16baa21e5a/REG202605.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 6,
+   "pensions": 10498828,
+   "payroll_eur": 14397518820.41,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/fb190f16-fa9b-43e8-8b63-c815e665d1a5/REG202606.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 7,
+   "pensions": 10517634,
+   "payroll_eur": 14431901149.95,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/33027925-b66d-4caf-a308-6181889d7892/REG202607.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 8,
+   "pensions": 10535869,
+   "payroll_eur": 14470406775.89,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/6a2241d8-08ca-4e86-8279-a0257cbce6bf/REG202608.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 9,
+   "pensions": 10547417,
+   "payroll_eur": 14498177663.49,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/3b3e7a6f-c69a-4bdf-8daa-a492ee475974/REG202609.xlsx?MOD=AJPERES"
+  },
+  {
+   "year": 2026,
+   "month": 10,
+   "pensions": 10565782,
+   "payroll_eur": 14539957057.56,
+   "method": "importe",
+   "source": "https://www.seg-social.es/wps/wcm/connect/wss/d6861a1d-a8ae-4791-b054-59a84eb6d250/REG202610.xlsx?MOD=AJPERES"
+  }
+ ]
+}

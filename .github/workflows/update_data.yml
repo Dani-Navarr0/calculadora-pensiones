@@ -1,0 +1,50 @@
+name: Update pension data
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'   # every Monday 06:00 UTC: add any newly published month
+    - cron: '0 5 2 * *'   # 2nd of each month: full rebuild from the official archive
+  workflow_dispatch:       # "Run workflow" button in the Actions tab
+    inputs:
+      full:
+        description: 'Full rebuild from the archive (true/false)'
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Rebuild data (INSS pension Excel files + Banco de España debt CSV)
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 5 2 * *" ] || [ "${{ github.event.inputs.full }}" = "true" ]; then
+            python update_data.py
+          else
+            python update_data.py --latest
+          fi
+
+      - name: Commit and push if the data changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/pensions.json data/debt.json
+          # generated_at always changes (1 line per file); only commit when real figures changed
+          if git diff --cached --numstat | awk '{s+=$1} END {exit !(s>2)}'; then
+            git commit -m "Auto-update pension data"
+            git push
+          else
+            echo "No new data."
+          fi
